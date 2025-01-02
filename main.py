@@ -37,7 +37,7 @@ def get_groq_response(question):
 st.title("CineBot")
 
 # Display an image placeholder
-st.image("movies.webp", width=1000, caption="CinematicHub")
+st.image("movies.webp", width=650, caption="CinematicHub")
 
 # Adjust CSS for padding and text wrapping
 st.markdown("""
